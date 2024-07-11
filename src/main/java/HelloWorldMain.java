@@ -3,7 +3,7 @@ public class HelloWorldMain {
         System.out.println("Hello, World! from Main Repo");
     }
 
-    public static void printHelloWorld() {
-        System.out.println("Hello, World! from Forked Repository");
+    public static void HelloFolks(String[] args) {
+        System.out.println("Hello, Folks! from Main Repo");
     }
 }
